@@ -1,10 +1,11 @@
 # 👋 Hi there, I'm Ezra Nega!
-A passionate Frontend Developer dedicated to crafting beautiful and functional web experiences. My focus is on building responsive, user-centric interfaces that bring designs to life.
+A passionate frontend software engineer dedicated to crafting beautiful and functional web experiences. My focus is on building responsive, user-centric interfaces that bring designs to life.
 
-- 🔭 I’m currently working on [current project or technology you're learning].
-- 🌟 Studied Computer Science at Werabe University, Ethiopia.
-- 💬 Ask me about [areas of expertise or interest].
-- ⚡ Fun fact: .
+- 🔭 I’m currently working on NFT marketpalce platform.
+- 🌱 I'm currently learning tools and technologies for Backend Development.
+- 💬 Ask me about anything, I am happy to help.
+- 📬 How to reach me: [ezranega.official@gmail.com](mailto:ezranega.official@gmail.com)
+- 📝 [Resume](https://drive.google.com/file/d/1VsShEZAzpmwZUsfn2G5XgENlrUkv7BJ_/view?usp=sharing).
 
 ## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)</br>
