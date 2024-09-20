@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Ezra Nega!
-A passionate frontend developer dedicated to crafting beautiful and functional web experiences. My focus is on building responsive, user-centric interfaces that bring designs to life.
+A passionate frontend developer dedicated to crafting beautiful and functional web experiences. My focus is on building responsive, user-centric interfaces that bring designs to life. Committed to ongoing learning and the achievement of high-quality software outcomes.
 
 - 🔭 I’m currently working on NFT marketpalce platform.
 - 🌱 I'm currently learning tools and technologies for Backend Development.
